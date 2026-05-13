@@ -1,0 +1,23 @@
+Kynetic Klicker
+Copyright (c) 2026 KyneticStudios LLC
+All Rights Reserved.
+
+Permission is granted to any person obtaining a copy of this software to:
+- Build the software for personal use.
+- Run the compiled software for personal use.
+- Run the software on servers, systems, or infrastructure owned or operated by KyneticStudios LLC.
+
+The following actions are STRICTLY PROHIBITED unless prior written permission is obtained from KyneticStudios LLC:
+- Modifying the source code.
+- Redistributing the source code.
+- Redistributing compiled binaries.
+- Republishing the software.
+- Sublicensing the software.
+- Selling or commercializing the software.
+- Using the software for third-party commercial services.
+- Claiming the software or portions of it as your own work.
+
+This software is provided "AS IS", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall KyneticStudios LLC be liable for any claim, damages or other liability arising from, out of, or in connection with the software or the use or other dealings in the software.
+
+For licensing inquiries or permissions, contact:
+https://guns.lol/tk746

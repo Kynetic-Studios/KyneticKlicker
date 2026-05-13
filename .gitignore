@@ -1,0 +1,61 @@
+# Build
+bin/
+obj/
+out/
+publish/
+dist/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userprefs
+*.csproj.user
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+_ReSharper*/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# Runtime
+*.runtimeconfig.dev.json
+
+# Local settings
+appsettings.Development.json
+.env
+.env.*
+
+# Generated test output
+TestResults/
+coverage/
+coverage.xml
+*.coverage
+*.coveragexml
+
+# Temporary
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Publish artifacts
+*.zip
+
+# Windows
+$RECYCLE.BIN/
